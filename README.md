@@ -117,3 +117,5 @@ Here some good and free tutorials to learn
     * [Udacity Intro to HTML & CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 
     * [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
+  
+3. Frontend Masters for JS
